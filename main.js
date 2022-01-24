@@ -37,5 +37,5 @@ function gotResult(error, results){
 }
 
 function clearCanvas(){
-    backgound("white");
+    background("white");
 }
